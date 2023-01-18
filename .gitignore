@@ -8,6 +8,9 @@ exercises/clippy/Cargo.lock
 rust-project.json
 .idea
 .vscode/*
+.github/*
 !.vscode/extensions.json
 *.iml
 *.o
+cargo.lock
+
