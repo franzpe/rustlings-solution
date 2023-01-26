@@ -68,7 +68,7 @@ To check your progress, you can run the following command:
 rustlings list
 ```
 
-## Topics:
+## Topics
 
 ### **intro**
 
